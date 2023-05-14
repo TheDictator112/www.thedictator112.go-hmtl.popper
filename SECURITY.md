@@ -1,12 +1,12 @@
-# Tutorials
-# HTML5
-# JAVA
-# Open Source
-# Security 
-# Privacy 
-# Terms of Use
-# Contact Us 
-# 
+## hackforms.net
+## quackit.com
+## darkweb.org.uk
+## Open Source
+## Security 
+## Privacy 
+## Terms of Use
+## Contact Us 
+
 
 Version 5.2 is the new revised updated version that can be accessed by visiting the open source or the BSD Clause to view all available supported. 
 
